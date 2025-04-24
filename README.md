@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to make websites, lego and drawing
 - 💞️ I’m looking to collaborate on websites, and games
 - 📫 How to reach me: my YT channel's name is 'Techdrips'
-- 😄 Pronouns: Techdrips, DimZim
+- 😄 Pronouns: Techdrips, Tech Helper
 - ⚡ Fun fact: If you work security on Samsung, aren't you the guardian of the galaxy?
 
 <!---
