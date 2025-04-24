@@ -1,3 +1,12 @@
+<div id="header" align="center">
+    <img src="https://i.imgur.com/gPVPYMw.jpeg" width="100"/>
+    <div id="badges">
+        <img src="https://img.shields.io/badge/HEY,%20I'M%20ORAGNE!-FC6A04?style=for-the-badge" alt="WSG!! iM TECHDRIPS!!"/>
+    </div>
+    <img alt="Stars" src="https://custom-icon-badges.demolab.com/github/stars/orn8?color=FC6A04&style=flat-square&logo=star&label=Stars"/>
+    <img src="https://komarev.com/ghpvc/?username=orn8&style=flat-square&color=fc6a04" alt="Profile Views"/>
+    <img alt="Followers" title="Follow me on Github" src="https://img.shields.io/github/followers/orn8?color=fc6a04&style=flat-square&logo=github&label=Followers"/>
+    <h1>
 - 👋 Hi, I’m @Techdrips
 - 👀 I’m interested in technology, games, drawing stickers and more!
 - 🌱 I’m currently learning how to make websites, lego and drawing
